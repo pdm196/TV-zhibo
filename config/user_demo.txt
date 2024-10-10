@@ -1,22 +1,10 @@
 CCTV,#genre#
-
-
-
-
-广东频道,#genre#
-珠江台,https://stream1.freetv.fun/yan-dong-zhu-jiang-18.ctv
-
-
-广东频道,#genre#
-
+cctv-1,
+cctv-2,
+cctv-3,
 
 
 
 广东频道,#genre#
-
-
-
-
-
-
-广东频道,#genre#
+珠江台,
+梅州一套,
