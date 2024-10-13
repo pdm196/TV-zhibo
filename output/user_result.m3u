@@ -1,66 +1,74 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-10-13 10:32:32" tvg-logo="https://live.fanmingming.com/tv/2024-10-13 10:32:32.png" group-title="更新时间",2024-10-13 10:32:32
+#EXTINF:-1 tvg-name="2024-10-13 22:26:46" tvg-logo="https://live.fanmingming.com/tv/2024-10-13 22:26:46.png" group-title="更新时间",2024-10-13 22:26:46
 url
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://118.248.162.117:8888/rtp/239.76.253.151:9000$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://223.10.24.65:8083/rtp/239.1.1.7:8007$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://223.10.11.180:8083/rtp/239.1.1.7:8007$1920x1080
+http://iptv.yjxfz.com:80/tv/play/4/A743AJEE3AJ23E0N/N9E90D28495IN71E$2560x1440
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
 http://223.10.3.122:8082/rtp/239.1.1.7:8007$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://223.10.11.180:8084/rtp/239.1.1.7:8007$1920x1080
+http://223.10.3.122:8083/rtp/239.1.1.7:8007$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://118.183.212.29:6868/rtp/239.255.30.101:8231$1920x1080
+http://183.191.249.69:8002/rtp/226.0.2.153:9136$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://171.121.82.191:8082/rtp/226.0.2.153:9136$1920x1080
+http://183.191.181.121:8002/rtp/226.0.2.153:9136$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://61.134.205.158:8083/rtp/226.0.2.153:9136$1920x1080
+http://183.185.227.252:8005/rtp/226.0.2.153:9136$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://223.10.11.180:8082/rtp/239.1.1.7:8007$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://60.223.90.188:8002/rtp/226.0.2.153:9136$1920x1080
+http://118.79.7.119:6001/rtp/226.0.2.153:9136$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
 http://124.167.23.196:8084/rtp/226.0.2.153:9136$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://221.205.180.219:8002/rtp/226.0.2.153:9136$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://211.158.154.60:8004/rtp/225.0.4.74:7980$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://114.243.104.64:8822/rtp/239.3.1.129:8008$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://27.11.250.8:8002/rtp/225.0.4.74:7980$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://60.223.72.30:8002/rtp/226.0.2.153:9136$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://171.120.214.119:8082/rtp/226.0.2.153:9136$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://175.9.194.24:4502/rtp/239.76.253.151:9000$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://183.191.249.69:8005/rtp/226.0.2.153:9136$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://115.230.189.89:9999/rtp/233.50.201.118:5140$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://124.129.78.38:3333/rtp/239.253.254.77:8000$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://115.60.252.97:9999/rtp/225.1.4.73:1102$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
 http://223.215.3.199:2000/rtp/238.1.78.166:7200$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://180.109.99.117:8888/rtp/239.49.8.129:6000$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://114.243.97.208:8822/rtp/239.3.1.129:8008$1920x1080
+#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
+http://114.243.103.165:8822/rtp/239.3.1.129:8008$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
 http://123.113.237.160:8888/rtp/239.3.1.129:8008$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
 http://59.174.227.133:8880/rtp/239.254.96.96:8550$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://222.95.92.12:4000/rtp/239.49.8.129:6000$1920x1080
+http://119.98.99.124:5555/rtp/239.254.96.96:8550$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://171.213.194.235:5555/rtp/239.93.0.184:5140$1920x1080
+http://115.230.251.136:9999/rtp/233.50.201.222:5140$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://180.158.191.162:9999/rtp/239.45.3.145:5140$1920x1080
+http://125.126.206.22:9999/rtp/233.50.201.222:5140$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://101.81.119.90:8888/rtp/239.45.3.145:5140$1920x1080
+http://114.243.105.66:8822/rtp/239.3.1.129:8008$1920x1080
 #EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://171.213.207.10:8088/rtp/239.93.0.184:5140$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://180.102.253.95:8000/rtp/239.49.8.129:6000$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://121.237.155.237:8800/rtp/239.49.8.129:6000$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://180.106.30.162:8800/rtp/239.49.8.129:6000$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://49.86.222.102:8888/rtp/239.49.8.129:6000$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://221.205.183.181:8002/rtp/226.0.2.153:9136$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://125.122.110.176:9999/rtp/233.50.201.222:5140$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://218.93.156.115:8888/rtp/239.49.8.129:6000$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://183.185.227.252:8002/rtp/226.0.2.153:9136$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://58.208.239.133:8888/rtp/239.49.8.129:6000$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://123.145.6.241:8003/rtp/225.0.4.74:7980$1920x1080
-#EXTINF:-1 tvg-name="cctv-1" tvg-logo="https://live.fanmingming.com/tv/cctv-1.png" group-title="CCTV",cctv-1
-http://117.71.190.104:4022/rtp/238.1.78.166:7200$1920x1080
+http://114.243.96.91:8822/rtp/239.3.1.129:8008$1920x1080
+#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
+http://enlen.vip:4022/rtp/239.200.200.104:8084$1920x1080
+#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
+https://livednow.com/migu/631780532?sign=gAAAAABmxHgUnAvEb33tHD9hTm-x8LUM8wdp7UNp8vG_QGzfBRymJcJ-qRZkuO8iC9C4jvmjR4JkCfpD2ahIj6YDLYc7I9zvSFX3TfVl-AEPw3Cr4tW6jEgf_21OyqfRJVr9Ur7eHN66lC0Vkm577g_N_DMJA7tvJB1VXzu8XvvBj9PfMX661WuanhS0hudEg28SveMbwkSCb9figgsldzEbo7jwMQVZ4A%3D%3D$1920x1080
+#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
+http://111.225.112.198:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
+#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
+http://112.46.85.60:8009/hls/502/index.m3u8$1920x1080
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://221.213.69.82:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
@@ -70,13 +78,11 @@ http://58.51.111.46:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://58.57.21.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
+http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://36.35.16.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
-http://183.24.48.6:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
-http://116.128.224.11:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
-http://110.7.131.88:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.24.48.6:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://220.249.114.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
@@ -92,15 +98,11 @@ http://59.62.8.250:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://60.12.183.46:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
-http://110.7.130.251:9901udp://@225.1.2.3:32146
-#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://58.216.229.130:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://119.163.228.205:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
-#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
-http://58.245.99.42:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
@@ -108,51 +110,37 @@ http://125.93.74.27:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://58.220.219.14:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
-http://110.7.131.135:9901udp://@225.1.2.3:32146
+http://223.75.148.190:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://58.48.5.186:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://175.16.184.213:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
-http://110.7.131.88:9901udp://@225.1.2.3:32146
-#EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://210.22.75.86:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
 http://119.142.76.36:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-2" tvg-logo="https://live.fanmingming.com/tv/cctv-2.png" group-title="CCTV",cctv-2
-http://110.7.131.110:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://175.0.32.62:8081/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://110.7.131.88:9901udp://@225.1.2.3:32147
+http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://202.100.46.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://61.138.128.226:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://110.7.131.110:9901udp://@225.1.2.3:32147
-#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://220.249.114.102:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://58.216.229.130:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://110.7.130.251:9901udp://@225.1.2.3:32147
+http://223.241.247.214:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://110.7.131.135:9901udp://@225.1.2.3:32147
-#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://223.241.247.214:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://119.163.63.188:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://119.163.63.188:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://117.27.190.42:9998/tsfile/live/23234_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://113.57.20.158:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://110.7.131.110:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://110.7.130.113:9901udp://@225.1.2.3:32147
-#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://110.7.130.113:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://58.51.111.46:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
@@ -162,9 +150,13 @@ http://59.173.243.210:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://118.122.189.74:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://183.24.48.6:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.24.48.6:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
+#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
+http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://221.213.69.82:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
+http://222.134.245.16:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://58.48.5.186:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
@@ -176,8 +168,16 @@ http://111.9.163.109:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://119.142.76.36:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://59.173.183.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
-http://58.245.97.28:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
 http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
+http://58.57.21.166:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
+http://58.48.37.158:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
+http://112.234.23.81:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
+http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
+http://119.163.57.184:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
+#EXTINF:-1 tvg-name="cctv-3" tvg-logo="https://live.fanmingming.com/tv/cctv-3.png" group-title="CCTV",cctv-3
+http://36.35.16.98:9901/tsfile/live/0001_40.m3u8?key=txiptv&playlive=0&authid=0
