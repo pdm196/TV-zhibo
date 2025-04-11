@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-11 10:26:32,url
+2025-04-11 22:21:34,url
 CCTV,#genre#
 cctv-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$1920x1080
 cctv-1,https://stream1.freetv.fun/df7cf71b3e02015b9029ac087b3eec56fde92fd81d162962570629faec293037.m3u8$1920x1080
